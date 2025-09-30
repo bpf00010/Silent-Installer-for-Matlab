@@ -13,7 +13,7 @@
 # Based on the "Install Products Programmatically" section of the MathWorks
 # installation documentation.
 #
-# Author: Gemini
+# 
 # Date: September 27, 2025
 #
 # ==============================================================================
